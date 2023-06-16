@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry
+ * main - Entry point
  *
  * Description: 'Creates a random integer and outputs whether it's a positive or negative number.'
  *
