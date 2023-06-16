@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: 'Creates a random integer and outputs whether it's a positive or negative number.'
+ * Description: 'Outputs whether a number is positive or negative.'
  *
  * Return: Always 0 (Success)
  */
