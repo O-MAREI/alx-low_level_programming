@@ -3,9 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Creates a random variable and then outputs whether it's a positive or negative number.
+ * main - Entry
  *
- * Return: 0 (Success)
+ * Description: 'Creates a random integer and outputs whether it's a positive or negative number.'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
