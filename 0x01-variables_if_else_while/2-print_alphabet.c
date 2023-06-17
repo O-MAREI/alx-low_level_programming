@@ -1,27 +1,21 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints the alphabet.
  *
- * Description: 'Outputs all the alphabet in lowercase.'
- *
- * Returns: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 33; i < 59; i++)
-	{	
-		if (i == 58)
-		{
-			putchar("%d\n",i);
-		}
-		else
-		{
-			putchar(i);
-		}
+	for (i = 0; i < 26; i++)
+	{
+		putchar(alp[i]);
 	}
+	putchar('\n');
 	return (0);
 }
