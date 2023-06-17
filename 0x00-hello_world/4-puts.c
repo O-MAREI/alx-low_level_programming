@@ -3,10 +3,12 @@
 /**
  * main - Entry point
  *
- * Returns: Always 0 (Success)
+ * Description: Using the puts function
+ *
+ * Returns: always 0 (Success)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
 }
