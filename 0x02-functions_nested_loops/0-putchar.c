@@ -3,11 +3,10 @@
 #include <unistd.h>
 
 /**
- * main - Entry point
- *  
+ * main - Entry point  
  * Return: On success return 0.
  */
-int main (void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -18,5 +17,5 @@ int main (void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	return(0);
+	return (0);
 }
