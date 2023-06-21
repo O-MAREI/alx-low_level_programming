@@ -3,7 +3,7 @@
 #include <unistd.h>
 
 /**
- * main - Entry point 
+ * main - Entry point.
  * Return: On success return 0.
  */
 int main(void)
