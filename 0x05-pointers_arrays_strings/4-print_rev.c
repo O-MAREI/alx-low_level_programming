@@ -3,9 +3,9 @@
 #include <string.h>
 
 /**
- * print_rev - check the code
+ * print_rev - Prints reverse of given string
  *
- * Return: Always 0.
+ * @s: Given string
  */
 void print_rev(char *s)
 {
