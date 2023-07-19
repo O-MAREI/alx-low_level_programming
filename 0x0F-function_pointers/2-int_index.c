@@ -6,7 +6,7 @@
  * @array: Array of integers to compare.
  * @size: Size of the array.
  * @cmp: Comparison function.
- * Return: Integer position || -1
+ * Return: Int position or -1
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
