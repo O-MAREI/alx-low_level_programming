@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * int_index: Returns position of a matching integer.
+ * int_index - Returns position of a matching integer.
  * @array: Array of integers to compare.
  * @size: Size of the array.
  * @cmp: Comparison function.
