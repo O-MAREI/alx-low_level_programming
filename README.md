@@ -1,2 +1,2 @@
 # alx-low_level_programming
-ALX low level programming repository. 
+Repository containing all low level programming exercises for the ALX Africa Software Engineering Programme, sponsored by the Mastercard Foundation.
